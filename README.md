@@ -1,6 +1,6 @@
 # Data Science Notes 
 
-Python code for Data Science studies
+Python code for Data Science Studies
 
 # Contents
 
